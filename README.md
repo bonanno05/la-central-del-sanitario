@@ -2,8 +2,7 @@
 
 🔗 **Live site:** https://lacentraldelsanitario.com.ar
 
-A responsive business website developed for a family sanitary and plumbing supply business, designed to establish its digital presence and showcase products,
-
+A responsive business website developed for a family sanitary and plumbing supply business, designed to establish its digital presence and showcase its products and brands.
 ---
 
 ## 📸 Preview
@@ -24,6 +23,9 @@ A responsive business website developed for a family sanitary and plumbing suppl
 ## ✨ Key Features
 
 * **Product Catalog:** Structured presentation of sanitary ware, ceramics, faucets and construction materials.
+* **Responsive Design:** Optimized layout for desktop, tablet, and mobile devices.
+* **Direct Customer Channels:** One-click WhatsApp contact integration and inquiry workflows.
+* **Optimized UI:** Clean navigation tailored to both retail customers and professional contractors.
 
 ---
 
@@ -32,6 +34,15 @@ A responsive business website developed for a family sanitary and plumbing suppl
 1. Local site exported with All-in-One WP Migration.
 2. Fresh WordPress installed on the hosting and SSL enabled before importing.
 3. Site imported and leftover local URLs (`localhost`) replaced with Better Search Replace.
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **CMS:** WordPress
+* **Local Server:** XAMPP (Apache, MySQL)
+* **Frontend:** Responsive layout & custom styling
+* **Asset & Migration Management:** All-in-One WP Migration tooling
 
 ---
 
